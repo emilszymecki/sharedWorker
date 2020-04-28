@@ -3,7 +3,7 @@ const path = require("path");
 const  WebSocket  =  require("ws");
 const pug = require('pug');
 const {randomGen} = require('./public/randLabel');
-const GenArr = [111,222,333];
+const GenArr = [111,222,333,444,555,666];
 const app = express();
 
 //console.log(randomGen)
